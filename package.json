@@ -1,9 +1,9 @@
 {
   "name": "athlia-landing-page",
+  "homepage": "https://Knarta.github.io/Athlia_landing_page",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Knarta.github.io/Athlia_landing_page",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

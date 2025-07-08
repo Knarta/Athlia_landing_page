@@ -22,8 +22,8 @@ function Header() {
       {/* Header bar with logo, login and signup buttons */}
       <div id="logo">
         {/* Logo with button to go back to home page */}
-        <a href="/">
-          <img src="/Logo.png" alt="Logo" />
+        <a href="/Athlia_landing_page/">
+          <img src="/Athlia_landing_page/Logo.png" alt="Logo" />
         </a>
       </div>
       {/* login button */}

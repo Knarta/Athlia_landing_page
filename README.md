@@ -5,11 +5,13 @@
 ![Athlia](https://img.shields.io/badge/Athlia-Fitness%20Futuriste-blue?style=for-the-badge&logo=react)
 ![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-7.0.3-646CFF?style=for-the-badge&logo=vite)
+![TypeScript](https://img.shields.io/badge/TypeScript-Support-blue?style=for-the-badge&logo=typescript)
 
 *Une expérience visuelle futuriste au cœur du fitness de demain* ✨
 
 [![Demo](https://img.shields.io/badge/Live%20Demo-Voir%20le%20site-blue?style=for-the-badge)](https://Knarta.github.io/Athlia_landing_page)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Knarta/Athlia_landing_page)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 </div>
 
@@ -254,6 +256,16 @@ graph TD
 
 <div align="center">
 
+### 📋 Prérequis
+
+- **Node.js** (version 18 ou supérieure)
+- **npm** ou **yarn**
+- **Git** pour cloner le repository
+
+</div>
+
+<div align="center">
+
 ```bash
 # 🎯 Cloner le repository
 git clone https://github.com/Knarta/Athlia_landing_page.git
@@ -284,6 +296,7 @@ npm run dev
 | `npm run build` | Construction pour production | 🏗️ | ✅ Actif |
 | `npm run preview` | Aperçu de l'expérience | 👀 | ✅ Actif |
 | `npm run deploy` | Déploiement sur GitHub Pages | 🚀 | ✅ Actif |
+| `npm run lint` | Vérification du code | 🔍 | ✅ Actif |
 
 </div>
 
@@ -328,6 +341,64 @@ L'expérience est déployée sur GitHub Pages avec optimisation automatique pour
 
 <div align="center">
 
+## 🔧 Configuration
+
+</div>
+
+<div align="center">
+
+### 📁 Variables d'Environnement
+
+Aucune variable d'environnement requise pour le moment.
+
+### 🎨 Personnalisation
+
+- **Couleurs** : Modifiez les variables CSS dans `src/App.css`
+- **Animations** : Ajustez les keyframes dans les fichiers CSS
+- **Contenu** : Personnalisez le texte dans les composants React
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Contribution
+
+</div>
+
+<div align="center">
+
+Nous accueillons les contributions ! Voici comment participer :
+
+1. 🍴 **Fork** le projet
+2. 🌿 **Créer** une branche feature (`git checkout -b feature/AmazingFeature`)
+3. 💾 **Commit** les changements (`git commit -m 'Add AmazingFeature'`)
+4. 📤 **Push** vers la branche (`git push origin feature/AmazingFeature`)
+5. 🔄 **Ouvrir** une Pull Request
+
+</div>
+
+---
+
+<div align="center">
+
+## 📄 Licence
+
+</div>
+
+<div align="center">
+
+Ce projet est sous licence **MIT**. Voir le fichier `LICENSE` pour plus de détails.
+
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+</div>
+
+---
+
+<div align="center">
+
 ## 👥 Contact
 
 </div>
@@ -337,6 +408,26 @@ L'expérience est déployée sur GitHub Pages avec optimisation automatique pour
 **Développeur** : Brenda - Hilliass & Charlène  
 **Repository** : [GitHub](https://github.com/Knarta/Athlia_landing_page)  
 **Site Web** : [Live Demo](https://Knarta.github.io/Athlia_landing_page)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 Roadmap
+
+</div>
+
+<div align="center">
+
+| Fonctionnalité | Statut | Priorité |
+|:---------------|:------:|:--------:|
+| 🔐 **Authentification** | 🚧 En cours | Haute |
+| 📊 **Dashboard utilisateur** | 📋 Planifié | Haute |
+| 🎮 **Squelette 3D interactif** | 📋 Planifié | Moyenne |
+| 📱 **Application mobile** | 📋 Planifié | Basse |
+| 🌐 **API backend** | 📋 Planifié | Moyenne |
 
 </div>
 

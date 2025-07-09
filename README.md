@@ -2,7 +2,7 @@
 
 > **Une expérience visuelle futuriste au cœur du fitness de demain**
 
-Une landing page cyberpunk pour Athlia, où technologie et bien-être fusionnent dans un univers digital immersif.
+Une landing page moderne et immersive pour Athlia, où technologie et bien-être fusionnent dans un univers digital élégant.
 
 ## L'Univers Visuel d'Athlia
 
@@ -63,8 +63,8 @@ Une landing page cyberpunk pour Athlia, où technologie et bien-être fusionnent
 ```
 src/
 ├── components/          # Éléments réutilisables
-│   ├── Header.jsx      # Navigation futuriste
-│   └── Footer.jsx      # Pied de page immersif
+│   ├── Header.jsx      # Navigation moderne
+│   └── Footer.jsx      # Pied de page élégant
 ├── Home/               # Sections principales
 │   ├── HomePage.jsx    # Hero avec vidéo 4K
 │   ├── AboutSection.jsx # Mission et innovation
@@ -110,7 +110,7 @@ L'expérience est déployée sur GitHub Pages avec optimisation automatique pour
 
 ## Contact
 
-**Développeur** : Knarta  
+**Développeur** : Brenda - Hilliass & Charlène
 **Repository** : https://github.com/Knarta/Athlia_landing_page  
 **Site Web** : https://Knarta.github.io/Athlia_landing_page
 

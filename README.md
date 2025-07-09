@@ -15,7 +15,11 @@
 
 ---
 
+<div align="center">
+
 ## 🌟 L'Univers Visuel d'Athlia
+
+</div>
 
 <div align="center">
 
@@ -23,7 +27,11 @@ Une landing page moderne et immersive où **technologie** et **bien-être** fusi
 
 </div>
 
+<div align="center">
+
 ### 🎨 Palette Chromatique
+
+</div>
 
 <div align="center">
 
@@ -36,7 +44,11 @@ Une landing page moderne et immersive où **technologie** et **bien-être** fusi
 
 </div>
 
+<div align="center">
+
 ### ✨ Effets Visuels Immersifs
+
+</div>
 
 <div align="center">
 
@@ -51,7 +63,11 @@ Une landing page moderne et immersive où **technologie** et **bien-être** fusi
 
 </div>
 
+<div align="center">
+
 ### 🌟 Animations Avancées
+
+</div>
 
 <div align="center">
 
@@ -67,9 +83,17 @@ Une landing page moderne et immersive où **technologie** et **bien-être** fusi
 
 ---
 
+<div align="center">
+
 ## 🎯 L'Expérience Utilisateur
 
+</div>
+
+<div align="center">
+
 ### 🎬 Hero Section Immersive
+
+</div>
 
 <div align="center">
 
@@ -82,7 +106,11 @@ Une landing page moderne et immersive où **technologie** et **bien-être** fusi
 
 </div>
 
+<div align="center">
+
 ### 📱 Sections Visuelles
+
+</div>
 
 <div align="center">
 
@@ -94,7 +122,11 @@ Une landing page moderne et immersive où **technologie** et **bien-être** fusi
 
 </div>
 
+<div align="center">
+
 ### 📐 Responsive Design
+
+</div>
 
 <div align="center">
 
@@ -108,9 +140,17 @@ Une landing page moderne et immersive où **technologie** et **bien-être** fusi
 
 ---
 
+<div align="center">
+
 ## 🛠️ Technologies Visuelles
 
+</div>
+
+<div align="center">
+
 ### 🎨 CSS3 Avancé
+
+</div>
 
 <div align="center">
 
@@ -123,7 +163,11 @@ Une landing page moderne et immersive où **technologie** et **bien-être** fusi
 
 </div>
 
+<div align="center">
+
 ### ⚛️ React 19 + Vite
+
+</div>
 
 <div align="center">
 
@@ -137,7 +181,11 @@ Une landing page moderne et immersive où **technologie** et **bien-être** fusi
 
 ---
 
+<div align="center">
+
 ## 🏗️ Architecture Technique
+
+</div>
 
 <div align="center">
 
@@ -198,7 +246,11 @@ graph TD
 
 ---
 
+<div align="center">
+
 ## 🚀 Installation & Immersion
+
+</div>
 
 <div align="center">
 
@@ -218,7 +270,11 @@ npm run dev
 
 ---
 
+<div align="center">
+
 ## 🎮 Scripts Disponibles
+
+</div>
 
 <div align="center">
 
@@ -233,7 +289,11 @@ npm run dev
 
 ---
 
+<div align="center">
+
 ## 🌐 Déploiement
+
+</div>
 
 <div align="center">
 
@@ -247,7 +307,11 @@ L'expérience est déployée sur GitHub Pages avec optimisation automatique pour
 
 ---
 
+<div align="center">
+
 ## 📱 Compatibilité
+
+</div>
 
 <div align="center">
 
@@ -262,7 +326,11 @@ L'expérience est déployée sur GitHub Pages avec optimisation automatique pour
 
 ---
 
+<div align="center">
+
 ## 👥 Contact
+
+</div>
 
 <div align="center">
 

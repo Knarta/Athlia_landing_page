@@ -7,22 +7,22 @@ function CardsFeatures() {
     <section id="cards-features">
       {/* Progress Tracking card */}
       <div className="card">
-        <h3>Suivi des progrès</h3>
+        <h3>Progress Tracking</h3>
         <p>
-          Suivez vos progrès et restez motivé avec des statistiques détaillées et des visualisations.
+          Track your progress and stay motivated with detailed statistics and visualizations.
         </p>
       </div>
       {/* Personalized Programs card */}
       <div className="card">
-        <h3>Programmes personnalisés</h3>
+        <h3>Personalized Programs</h3>
         <p>
-          Créez des programmes personnalisés adaptés à votre niveau et à vos objectifs, mis à jour à mesure que vous progressez.
+          Create personalized programs adapted to your level and goals, updated as you progress.
         </p>
       </div>
       {/* 3D Mannequin card */}
       <div className="card">
         <h3>Mannequin 3D</h3>
-        <p>Utilisez un mannequin 3D pour choisir la partie que vous voulez travailler.</p>
+        <p>Use a 3D mannequin to choose the part you want to work on.</p>
       </div>
     </section>
   );

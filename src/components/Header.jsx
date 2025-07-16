@@ -15,7 +15,7 @@ function Header() {
   // Fonction pour afficher une alerte
   const handleComingSoon = (e) => {
     e.preventDefault();
-    alert('Fonctionnalité à venir');
+    alert('Feature coming soon');
   };
   return (
     <header id="header">
@@ -28,9 +28,9 @@ function Header() {
       </div>
       {/* login button */}
       <div className="header-buttons">
-        <button id="header-login" onClick={handleComingSoon} style={{cursor: 'not-allowed', opacity: 0.7}}>Connexion</button>
+        <button id="header-login" onClick={handleComingSoon} style={{cursor: 'not-allowed', opacity: 0.7}}>Connection</button>
         {/* Sign Up button */}
-        <button id="header-signup" onClick={handleComingSoon} style={{cursor: 'not-allowed', opacity: 0.7}}>Inscription</button>
+        <button id="header-signup" onClick={handleComingSoon} style={{cursor: 'not-allowed', opacity: 0.7}}>Sign Up</button>
       </div>
     </header>
   );

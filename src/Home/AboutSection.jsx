@@ -6,33 +6,32 @@ const AboutSection = () => {
   return (
     <section id="about-section">
       <div className="about-container">
-        <h2 className="about-title">À propos d'Athlia</h2>
+        <h2 className="about-title">About Athlia</h2>
         
         <div className="about-content">
           <div className="about-card">
-            <h3>Notre Mission</h3>
+            <h3>Our mission</h3>
             <p>
-              Rendre le fitness accessible à tous, même avec des contraintes physiques. 
-              Athlia adapte automatiquement les exercices selon vos blessures, votre niveau 
-              et vos objectifs pour un entraînement sûr et efficace.
+              Make fitness accessible to everyone, even with physical limitations. 
+              Athlia automatically adapts the exercises to your injuries, your level 
+              and your goals, for safe and effective training.
             </p>
           </div>
           
           <div className="about-card">
-            <h3>Notre Innovation</h3>
+            <h3>Our Innovation</h3>
             <p>
-              Notre squelette 3D interactif révolutionne la sélection d'exercices. 
-              Cliquez sur les zones musculaires que vous voulez travailler et découvrez 
-              instantanément les exercices adaptés à vos contraintes physiques.
+              Our 3D interactive skeleton revolutionizes exercise selection. 
+              Click on the muscle areas you want to work on and discover 
+              instantly the exercises adapted to your physical limitations.
             </p>
           </div>
           
           <div className="about-card">
-            <h3>Personnalisation Avancée</h3>
+            <h3>Advanced Personalization</h3>
             <p>
-              Créez votre profil sportif avec vos objectifs, votre niveau et vos contraintes. 
-              Athlia filtre automatiquement les exercices pour vous proposer uniquement 
-              ceux qui vous conviennent vraiment.
+              Create your fitness profile with your goals, level and limitations. 
+              Athlia automatically filters the exercises to offer only those that suit you.
             </p>
           </div>
         </div>

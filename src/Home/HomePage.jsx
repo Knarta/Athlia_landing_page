@@ -71,9 +71,9 @@ const HomePage = () => {
     };
   }, []);
 
-  const title = "Transformez votre corps avec Athlia";
+  const title = "Transform your body with Athlia";
   const presentation =
-    "Découvrez une approche révolutionnaire de la remise en forme, combinant technologie de pointe et expertise scientifique pour des résultats exceptionnels.";
+    "Discover a revolutionary approach to fitness, combining cutting-edge technology and scientific expertise for exceptional results.";
 
   return (
     <main>
@@ -102,7 +102,7 @@ const HomePage = () => {
               {/* Adapter le bouton selon l'état de connexion */}
               <a href={isLoggedIn ? "/combined" : "/login"}>
                 <button id="hero-get-started">
-                  <span>{isLoggedIn ? "Mes Exercices" : "Commencer"}</span>
+                  <span>{isLoggedIn ? "My Exercises" : "Get Started"}</span>
                   <span className="button-icon">→</span>
                 </button>
               </a>

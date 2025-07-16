@@ -6,23 +6,23 @@ const FeaturesSection = () => {
   return (
     <section id="features-section">
       <div className="features-container">
-        <h2 className="features-title">Fonctionnalités Détaillées</h2>
+        <h2 className="features-title">Detailed Features</h2>
         
         <div className="features-content">
           <div className="feature-card">
             <div className="feature-icon">📊</div>
             <div className="feature-info">
-              <h3>Tableau de Bord Personnel</h3>
+              <h3>Personal Dashboard</h3>
               <p>
-                Accédez à votre espace personnel pour suivre vos progrès sportifs avec 
-                des statistiques détaillées et des informations personnalisées.
+                Access your personal space to track your sports progress with 
+                detailed statistics and personalised information.
               </p>
               <ul className="feature-benefits">
-                <li>Historique de vos exercices</li>
-                <li>Fréquence d'utilisation par exercice</li>
-                <li>Suivi de progression personnalisé</li>
-                <li>Utilisation des muscles par zone</li>
-                <li>Conseils et recommandations</li>
+                <li>Exercise history</li>
+                <li>Frequency of use by exercise</li>
+                <li>Personalised progress tracking</li>
+                <li>Muscle use by area</li>
+                <li>Advice and recommendations</li>
               </ul>
             </div>
           </div>
@@ -30,18 +30,18 @@ const FeaturesSection = () => {
           <div className="feature-card">
             <div className="feature-icon">🎯</div>
             <div className="feature-info">
-              <h3>Exercices Personnalisés</h3>
+              <h3>Personalised Exercises</h3>
               <p>
-                Découvrez une bibliothèque d'exercices adaptés à vos besoins. 
-                Filtrez par zone musculaire et contraintes physiques pour trouver 
-                les exercices qui vous conviennent.
+                Discover a library of exercises adapted to your needs. 
+                Filter by muscle area and physical limitations to find 
+                the exercises that suit you.
               </p>
               <ul className="feature-benefits">
-                <li>Filtrage par zone musculaire (pectoraux, bras, épaules, etc.)</li>
-                <li>Sélection selon vos contraintes physiques</li>
-                <li>Bibliothèque d'exercices variés</li>
-                <li>Système de sélection/désélection d'exercices</li>
-                <li>Interface intuitive et responsive</li>
+                <li>Muscle area filtering (chest, arms, shoulders, etc.)</li>
+                <li>Selection according to your physical limitations</li>
+                <li>Varied exercise library</li>
+                <li>Selection/deselection system</li>
+                <li>Intuitive and responsive interface</li>
               </ul>
             </div>
           </div>
@@ -49,18 +49,17 @@ const FeaturesSection = () => {
           <div className="feature-card">
             <div className="feature-icon">🔄</div>
             <div className="feature-info">
-              <h3>Squelette 3D Interactif</h3>
+              <h3>Interactive 3D Skeleton</h3>
               <p>
-                Utilisez notre squelette 3D interactif pour sélectionner visuellement 
-                les zones musculaires que vous souhaitez travailler. Une interface 
-                moderne et intuitive pour personnaliser vos entraînements.
+                Use our interactive 3D skeleton to visually select the muscle areas you want to work on. 
+                A modern and intuitive interface to personalise your training.
               </p>
               <ul className="feature-benefits">
-                <li>Squelette 3D interactif avec rotation</li>
-                <li>Sélection précise des zones musculaires</li>
-                <li>Filtrage automatique des exercices par zone</li>
-                <li>Contrôles de rotation automatique</li>
-                <li>Interface responsive et moderne</li>
+                <li>Interactive 3D skeleton with rotation</li>
+                <li>Precise selection of muscle areas</li>
+                <li>Automatic filtering of exercises by area</li>
+                <li>Automatic rotation controls</li>
+                <li>Modern and responsive interface</li>
               </ul>
             </div>
           </div>
@@ -74,9 +73,9 @@ const FeaturesSection = () => {
               letterSpacing: '-0.5px',
               color: '#e0f2fe'
             }}>
-              Prêt à découvrir tout ce qu'Athlia peut t'apporter&nbsp;?<br/>
+              Ready to discover everything Athlia can offer you&nbsp;?<br/>
               <span style={{color: '#60a5fa', fontWeight: 500}}>
-                Rejoins-nous et commence à transformer ta routine dès aujourd'hui&nbsp;!
+                Join us and start transforming your routine today&nbsp;!
               </span>
             </p>
             <a href="/signup">
@@ -88,7 +87,7 @@ const FeaturesSection = () => {
                 color: '#fff',
                 boxShadow: '0 0 24px #2460f2aa'
               }}>
-                Je découvre Athlia&nbsp;✨
+                Discover Athlia&nbsp;✨
               </button>
             </a>
           </div>

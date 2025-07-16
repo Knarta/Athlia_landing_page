@@ -19,7 +19,7 @@ const ContactSection = () => {
     const webhookUrl = 'https://discord.com/api/webhooks/1390714640765554778/LLrjz2IrnDarGa5XI8nxCwwT-Z3tcPI-o3IkczDVj2sHDhDiGAFVcqM_PakdlEvrhvr4';
     
     const discordMessage = {
-      content: `📧 **Nouveau feedback Athlia**\n\n👤 **Nom:** ${name}\n📧 **Email:** ${email}\n💬 **Message:** ${message}\n\n---\n*Envoyé depuis le site Athlia*`
+      content: `📧 **Nouveau feedback Athlia**\n\n👤 **Nom:** ${name}\n📧 **Email:** ${email}\n💬 **Message:** ${message}\n\n---\n*Sent from the Athlia site*`
     };
     
     try {
@@ -50,16 +50,16 @@ const ContactSection = () => {
         
         <div className="contact-content" style={{ position: 'relative', zIndex: 9999, pointerEvents: 'auto' }}>
           <div className="contact-info" style={{ position: 'relative', zIndex: 9999, pointerEvents: 'auto' }}>
-            <h3>Notre Équipe</h3>
+            <h3>Our Team</h3>
             <p>
-              Athlia est développé par une équipe de 3 développeurs passionnés de fitness et de technologie. 
-              Nous travaillons ensemble pour créer une expérience utilisateur exceptionnelle.
+              Athlia is developed by a team of 3 passionate developers in fitness and technology. 
+              We work together to create an exceptional user experience.
             </p>
             
             <div className="team-members">
               <div className="team-member">
                 <h4>Brenda</h4>
-                <p className="role">Développeuse Front-End</p>
+                <p className="role">Front-End Developer</p>
                 <div className="social-links">
                   <a href="https://github.com/Bree-Coding" target="_blank" rel="noopener noreferrer">
                     <span className="social-icon">💻</span> GitHub
@@ -72,7 +72,7 @@ const ContactSection = () => {
               
               <div className="team-member">
                 <h4>Hilliass</h4>
-                <p className="role">Développeur Back-End</p>
+                <p className="role">Back-End Developer</p>
                 <div className="social-links">
                   <a href="https://github.com/HLS-976" target="_blank" rel="noopener noreferrer">
                     <span className="social-icon">💻</span> GitHub
@@ -100,25 +100,25 @@ const ContactSection = () => {
             <div className="contact-details">
               <div className="beta-badge">
                 <span className="beta-icon">🚀</span>
-                <span className="beta-text">Version Beta</span>
-                <span className="beta-status">En développement</span>
+                <span className="beta-text">Version bêta</span>
+                <span className="beta-status">In development</span>
               </div>
             </div>
           </div>
           
           <div className="contact-form" style={{ position: 'relative', zIndex: 9999, pointerEvents: 'auto' }}>
-            <h3>Envoyez-nous votre feedback</h3>
+            <h3>Send us your feedback</h3>
             
             {success ? (
               <div className="success-message-feedback">
-                <h4>Merci pour votre retour ! 🙏</h4>
-                <p>Votre message a bien été envoyé à l'équipe Athlia.<br/>Nous vous répondrons dès que possible.</p>
+                <h4>Thank you for your feedback! 🙏</h4>
+                <p>Your message has been sent to the Athlia team.<br/>We will get back to you as soon as possible.</p>
               </div>
             ) : (
               <form onSubmit={handleSubmit} style={{ position: 'relative', zIndex: 9999, pointerEvents: 'auto' }}>
                 <div className="form-group">
-                  <label htmlFor="name">Nom</label>
-                  <input type="text" id="name" name="name" placeholder="Votre nom" required />
+                  <label htmlFor="name">Name</label>
+                  <input type="text" id="name" name="name" placeholder="Your name" required />
                 </div>
                 
                 <div className="form-group">
@@ -131,7 +131,7 @@ const ContactSection = () => {
                   <textarea 
                     id="message" 
                     name="message" 
-                    placeholder="Votre feedback, suggestions ou questions..."
+                    placeholder="Your feedback, suggestions or questions..."
                     rows="4"
                     required
                   ></textarea>
@@ -147,7 +147,7 @@ const ContactSection = () => {
                     cursor: 'pointer'
                   }}
                 >
-                  Envoyer le message
+                  Send message
                 </button>
               </form>
             )}
